@@ -1,0 +1,7 @@
+[SCAFFOLDING]
+
+[ApplicationCore]
+Scaffold-DbContext "Data Source=ardenis\sqlexpress;Initial Catalog=ApplicationDB;Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities -force -Context ApplicationDBContext
+
+ApplicationDbContext -- ApplicationUser DB
+ApplicationDBContext -- OverALL
