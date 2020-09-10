@@ -10,3 +10,15 @@ C:\Users\Ardenis\Desktop\Identity\AspNetCoreMvcIdentity-master\Infrastructure\ob
 C:\Users\Ardenis\Desktop\Identity\AspNetCoreMvcIdentity-master\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
 C:\Users\Ardenis\Desktop\Identity\AspNetCoreMvcIdentity-master\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
 C:\Users\Ardenis\Desktop\Identity\AspNetCoreMvcIdentity-master\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

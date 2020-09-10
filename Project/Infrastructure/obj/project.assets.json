@@ -6438,11 +6438,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Ardenis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6462,8 +6462,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\ApplicationCore\\ApplicationCore.csproj"
+            "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\ApplicationCore\\ApplicationCore.csproj"
             }
           }
         }

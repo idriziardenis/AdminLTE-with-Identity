@@ -7,3 +7,12 @@ C:\Users\Ardenis\Desktop\Identity\AspNetCoreMvcIdentity-master\ApplicationCore\o
 C:\Users\Ardenis\Desktop\Identity\AspNetCoreMvcIdentity-master\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
 C:\Users\Ardenis\Desktop\Identity\AspNetCoreMvcIdentity-master\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
 C:\Users\Ardenis\Desktop\Identity\AspNetCoreMvcIdentity-master\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Ardenis\Documents\GitHub\AdminLTE-with-Identity\Project\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb

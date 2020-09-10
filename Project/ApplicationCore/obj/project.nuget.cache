@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VagqAw4ZfiHuzaHCGTwOQCT8N7RXIgPpZ29wFL6iz8oMQdhhB9W8IkCYGG44+pPXfTf5Dra3R9aRmySmcjRDQA==",
+  "dgSpecHash": "mXrRjtXMUyOVf3xDZUIpOzvxnLne5EU9YGkdvc0kqH18KkXnBYzyNIk5eAkCcjsQFQ2pamziIAdnPqGxyVN5HQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\ApplicationCore\\ApplicationCore.csproj",
+  "projectFilePath": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\ApplicationCore\\ApplicationCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ardenis\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Ardenis\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

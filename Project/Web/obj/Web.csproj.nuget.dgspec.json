@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\Web\\Web.csproj": {}
+    "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\Web\\Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\ApplicationCore\\ApplicationCore.csproj": {
+    "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\ApplicationCore\\ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\ApplicationCore\\ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\Ardenis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Ardenis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -97,8 +97,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\ApplicationCore\\ApplicationCore.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\Web\\Web.csproj": {
+    "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\Web\\Web.csproj",
+        "projectPath": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\Ardenis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\Web\\obj\\",
+        "outputPath": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -171,11 +171,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\ApplicationCore\\ApplicationCore.csproj"
               },
-              "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -206,6 +206,16 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.8, )"
+            },
+            "Microsoft.TypeScript.MSBuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.0.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
             }
           },
           "imports": [

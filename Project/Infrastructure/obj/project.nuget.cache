@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W5Sly7/2M9oPqRnfc/M7Y8DTU2M3y6SD15czjPzOqOmtlqDBmfrQHQRY2OcMn9/moiFvo5jCx5V5rnNjWZcgzQ==",
+  "dgSpecHash": "3FsM5XJtPRh9tdAf8frdLqAt519Idpw6P8xeBnggWb1QqsETezhAwLflElDMBjt6AfU+73rffTlqo3SLUIwJnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ardenis\\Desktop\\Identity\\AspNetCoreMvcIdentity-master\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Ardenis\\Documents\\GitHub\\AdminLTE-with-Identity\\Project\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ardenis\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\Ardenis\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
